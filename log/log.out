@@ -1,0 +1,28 @@
+[08:13] #########################
+[08:13] {<thing.thing object at 0x7f53939c6278>: 2}
+[08:13] bodyList[index].have: [<thing.thing object at 0x7f53939c6278>, '']
+[08:13] all(bodyList[index].have): False
+[08:13] #########################
+[08:13] {<thing.thing object at 0x7f53939c6278>: 3}
+[08:13] bodyList[index].have: ['', '']
+[08:13] all(bodyList[index].have): False
+[08:13] #########################
+[08:13] {<thing.thing object at 0x7f53939c6278>: 3, <thing.thing object at 0x7f53939c6470>: 1}
+[08:13] bodyList[index].have: [<thing.thing object at 0x7f53939c6278>, '', <thing.thing object at 0x7f53939cc518>]
+[08:13] all(bodyList[index].have): False
+[08:13] #########################
+[08:13] {<thing.thing object at 0x7f53939c6278>: 4, <thing.thing object at 0x7f53939c6470>: 1}
+[08:13] bodyList[index].have: ['', '', <thing.thing object at 0x7f53939cc518>]
+[08:13] all(bodyList[index].have): False
+[08:13] #########################
+[08:13] {<thing.thing object at 0x7f53939c6278>: 4, <thing.thing object at 0x7f53939c6470>: 1, <thing.thing object at 0x7f53939cc518>: 1}
+[08:13] bodyList[index].have: ['', '', '']
+[08:13] all(bodyList[index].have): False
+[08:13] #########################
+[08:13] {<thing.thing object at 0x7f53939c6278>: 5, <thing.thing object at 0x7f53939c6470>: 1, <thing.thing object at 0x7f53939cc518>: 1}
+[08:13] bodyList[index].have: [<thing.thing object at 0x7f53939c6278>, '']
+[08:13] all(bodyList[index].have): False
+[08:13] #########################
+[08:13] {<thing.thing object at 0x7f53939c6278>: 6, <thing.thing object at 0x7f53939c6470>: 1, <thing.thing object at 0x7f53939cc518>: 1}
+[08:13] bodyList[index].have: ['', '']
+[08:13] all(bodyList[index].have): False
